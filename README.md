@@ -5,12 +5,12 @@ npx degit https://github.com/IgorNep/react-ts-starter.git my-app
 ## Install dependencies
 
 cd my-app &&
-yarn
+npm install
 
 ## Run dev server
 
-yarn start
+npm start
 
 ## Build
 
-yarn build
+npm build
